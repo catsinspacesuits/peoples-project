@@ -13,5 +13,5 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-url: 
+url: peoples-project
 root: /
